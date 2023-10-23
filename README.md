@@ -23,7 +23,7 @@ I'm always interested in connecting with other developers and tech enthusiasts, 
 
 [LinkedIn](https://www.linkedin.com/in/mohammad-kazemzadeh-749699a8/)\
 [Twitter](https://twitter.com/kazemzadeh_m)\
-info.moh.kazemzadeh@example.com
+info.moh.kazemzadeh@gmail.com
 
 **Looking Forward to Connecting**
 
