@@ -6,16 +6,21 @@ My name is Mohammad Kazemzadeh, and I'm a passionate Full Stack Developer with e
 
 I have a wide range of skills and experience, and I'm always eager to learn new things. Here are some of the technologies I'm most proficient in:
 
+* ![Typescript](https://img.shields.io/badge/Typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=white)
 * ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 * ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 * ![Image of MongoDB logo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![Image of Docker logo](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 * ![Image of PWA logo](https://img.shields.io/badge/PWA-FF6C37?style=for-the-badge&logo=pwa&logoColor=white)
+* ![Image of vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 * ![Image of Firebase logo](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 * ![Image of WebSockets logo](https://img.shields.io/badge/WebSockets-4B0082?style=for-the-badge&logo=websocket&logoColor=white)
 * ![Image of Socket.io logo](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 * ![Image of Redis logo](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 * ![Image of RabbitMQ logo](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+* ![Image of linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* ![Image of git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+* ![Image of next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
 **Get in Touch**
 
